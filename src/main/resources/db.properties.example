@@ -1,0 +1,4 @@
+# Salin file ini menjadi db.properties lalu isi password MySQL kamu
+db.url=jdbc:mysql://localhost:3306/db_student_master?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=Asia/Jakarta
+db.user=root
+db.password=ISI_PASSWORD_MYSQL_KAMU
